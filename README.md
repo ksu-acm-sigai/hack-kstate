@@ -1,2 +1,2 @@
 # hack-kstate
-Hack K-State A.I. Track Project Winners.
+Hack K-State A.I. Track - Projects and Winners.
